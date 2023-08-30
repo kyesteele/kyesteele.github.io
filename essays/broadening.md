@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/horizon.jpg?raw=true">
+<img width="275px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/horizon.jpg?raw=true">
 
 ## Javascript is a Breath of Fresh Air
 
