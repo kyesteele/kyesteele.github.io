@@ -6,7 +6,8 @@ title: "Broadening My Horizons: Software Engineering"
 date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Javascript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/horizon.jpg?raw=true">
