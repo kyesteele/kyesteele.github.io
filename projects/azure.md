@@ -14,8 +14,8 @@ summary: "As a cloud security intern, I worked on redesigning a local company's 
 
 <div class="text-center p-4">
   <img width="200px" height="200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/Microsoft_Azure.svg.png?raw=true" class="img-thumbnail">
-  <img width="200px" height="200px"  src="https://github.com/kyesteele/kyesteele.github.io/blob/main/cloud-computing-security-issue-and-challenges-e1623101985475.jpg?raw=true" class="img-thumbnail" >
-  <img width="200px"  height="200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/rbac-overview.png?raw=true" class="img-thumbnail" >
+  <img width="200px" height="200px"  object-fit: fill src="https://github.com/kyesteele/kyesteele.github.io/blob/main/cloud-computing-security-issue-and-challenges-e1623101985475.jpg?raw=true" class="img-thumbnail" >
+  <img width="200px"  height="200px" object-fit: fill src="https://github.com/kyesteele/kyesteele.github.io/blob/main/rbac-overview.png?raw=true" class="img-thumbnail" >
 </div>
 
   In the summer semester of 2023, I was fortunate enough to be a full-time cloud security intern at a local insurance SaaS company. I had a total of three projects within this internship, but the primary project was redesigning the current Role Based Access Controls system for the company, in a way that adheres to the principle of least privilege. Essentially, my task was to learn how Azure RBAC works, interview employees to understand what everyone does and how they do it, and use this knowledge to design a new RBAC system. The whole point of this RBAC redesign was to provide a quality-of-life improvement for all employees. Employees should have access to everything they need, but only the access that they need. This is to protect the company and its employed individuals, but also so employees need not worry if they have access to something. They can simply worry about what work they need to complete.
