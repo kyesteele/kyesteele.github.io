@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: malware-analysis-feature.jpg
+image: malware.png
 title: "Optimizing Malware Analysis"
 date: 2023
 published: true
@@ -20,4 +20,4 @@ summary: "A research project on improving current techniques and protocols for m
 	
  Being my first internship, this was a great opportunity to develop myself professionally while learning new computer science concepts. I feel that I strengthened my own writing skills, and I also learned how to use Microsoft Office tools for the first time. Towards the end of the internship, we had to present our findings to local politicians, NIWC employees, students, and professors. This was a great opportunity to practice being able to explain my ideas and findings in a way that is understandable by anyone, and adjusting for more or less technical audiences. I am very grateful for this opportunity, as I gained valuable experience and skills for my future career.
 
-You can read my research paper here: [Achieving Consistency and Efficiency in Malware Analysis](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can read my research paper here: [Achieving Consistency and Efficiency in Malware Analysis](https://github.com/kyesteele/kyesteele.github.io/blob/05f54d2b4eec3f30fb4116f0ee309c6ff8cf5390/Research_Project_Kye_Steele_FINAL%202.docx).
