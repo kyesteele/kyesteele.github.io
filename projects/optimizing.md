@@ -20,4 +20,4 @@ summary: "A research project on improving current techniques and protocols for m
 	
  Being my first internship, this was a great opportunity to develop myself professionally while learning new computer science concepts. I feel that I strengthened my own writing skills, and I also learned how to use Microsoft Office tools for the first time. Towards the end of the internship, we had to present our findings to local politicians, NIWC employees, students, and professors. This was a great opportunity to practice being able to explain my ideas and findings in a way that is understandable by anyone, and adjusting for more or less technical audiences. I am very grateful for this opportunity, as I gained valuable experience and skills for my future career.
 
-You can read my research paper here: [Achieving Consistency and Efficiency in Malware Analysis](https://kyesteele.github.io/malwarepaper.pdf).
+You can read my research paper here: [Achieving Consistency and Efficiency in Malware Analysis](https://kyesteele.github.io/malwarepaper.pdf){:target="_blank"}.
