@@ -7,7 +7,7 @@
     "phone": "808-387-6536",
     "website": "https://kyesteele.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kyesteele", "url": "http://github.com/kyesteele" },
       { "network": "linkedin", "username": "kyesteele", "url": "http://linkedin.com/in/kyesteele" }
@@ -23,21 +23,35 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Python", "Swift", "Selenium"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Fedora", "Zorin", "Kali", "Git/GitHub", "g++"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
+        "Introduction to Computer Science Principles (ICS 103)",
+        "Introduction to Computer Science I (ICS 111)",
+        "Introduction to Computer Science II (ICS 211)",
+        "Discrete Math for Computer Science I (ICS 141)",
+				"Discrete Math for Computer Science II (ICS 241)",
+        "Programming Structure (ICS 212)",
+        "Algorithms (ICS 311)",
+        "Software Engineering (ICS 314)",
+        "Database Systems (ICS 321)",
+				"Sophomore Project (ICS 296)",
+				"Junior Project (ICS 396)",
+				"Accelerated Calculus I (MATH 251A)",
+				"Calculus II (MATH 242)",
+				"Linear Algebra and Differential Equations (MATH 307)"
       ]
     }
   ],
