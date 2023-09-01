@@ -12,7 +12,7 @@ labels:
   - iOS Development
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/horizon.jpg?raw=true">
+<img width="275px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/softwareengineering.jpg?raw=true">
 
 ## Front-End Fiesta
 
