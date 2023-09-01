@@ -42,89 +42,118 @@
         "Introduction to Computer Science I (ICS 111)",
         "Introduction to Computer Science II (ICS 211)",
         "Discrete Math for Computer Science I (ICS 141)",
-				"Discrete Math for Computer Science II (ICS 241)",
+	"Discrete Math for Computer Science II (ICS 241)",
         "Programming Structure (ICS 212)",
         "Algorithms (ICS 311)",
         "Software Engineering (ICS 314)",
         "Database Systems (ICS 321)",
-				"Sophomore Project (ICS 296)",
-				"Junior Project (ICS 396)",
-				"Accelerated Calculus I (MATH 251A)",
-				"Calculus II (MATH 242)",
-				"Linear Algebra and Differential Equations (MATH 307)"
+	"Sophomore Project (ICS 296)",
+	"Junior Project (ICS 396)",
+	"Accelerated Calculus I (MATH 251A)",
+	"Calculus II (MATH 242)",
+	"Linear Algebra and Differential Equations (MATH 307)"
       ]
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+	{
+      "company": "Decision Research Corporation",
+      "position": "Cloud Security Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Redesign the company's current role-based access controls system such that it adheres to the principle of least privilege",
+	"Provide a quality of work-life improvement for every employee within DRC, and improve the company's overall security with this RBAC redesign",
+        "Interview a multitude of employees to gain an understanding of everyone's role in the company, and how they take care of their respective responsibilites",
+	"Configure diagnostics settings within the Azure platform such that all cloud-based company resource activity is being logged",
+	"Conduct research on SOC II vendors to find a solution best suited to aid DRC in reaching SOC II compliance"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "National Information Warfare Center Pacific",
+      "position": "Cyber Security Intern",
+      "website": "",
+      "startDate": "2023",
+      "endDate": "2023",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conducted a research project on the optimization of current malware analysis techniques and protocols",
+        "Presented my findings and made suggestions for improvement of current techniques and protocols to NIWC, UH faculty, and local politicians"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+	{
+      "organization": "Pacific Academy of Performing Arts",
+      "website": "",
+      "position": "Performer",
+      "startDate": "2012",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "On-stage performer in various musicals",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maui in Moana Jr, Sebastian in The Little Mermaid, Link Larkin in Hairspray",
+	"Performed in a large cast of a large age range",
+	"Improved overall communication skills"
       ]
     },
-    {
-      "organization": "",
+	  {
+      "organization": "Shotokan Karate",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "First Dan Black Belt",
+      "startDate": "2010",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Earned rank of black belt in 2018",
+	"Led weekly one-hour trainings at dojo"
+      ]
+    },
+	{
+      "organization": "Boy Scouts of America",
+      "website": "",
+      "position": "Eagle Scout",
+      "startDate": "2013",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+        "Eagle Scout project (sneeze guards for students), 2021",
+        "Senior Patrol Leader, 2020-2021",
+	"Community service involvement throughout: line painting at Saint Ann's Church, He'eia Estuary cleanup, Haiku stream cleanup, Baskets of Blessings, speech festival"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship awarded to entering high school graduates to recognize outstanding academic performance."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Eagle Scout Rank",
+      "date": "2021",
+      "awarder": "Boy Scouts of America",
+      "summary": "After nine years in scouting, I earned the rank of eagle scout."
+    },
+	{
+      "title": "First Dan Black Belt",
+      "date": "2018",
+      "awarder": "Shotokan Karate",
+      "summary": "After eight years of training, I was promoted to black belt in Shotokan Karate."
     }
-  ],
+  ]
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Robert Maeshiro, Former Sensei",
+	"email": "kiaiskk@gmail.com",
+	    "phone": "(808) 554-0789"
+    },
+	  {
+      "name": "Jason Kobayashi, Former Boy Scouts Troop 113 Scoutmaster",
+	"email": "jmk4of6@hotmail.com",
+	    "phone": "(808) 398-1883"
     }
   ]
 }
