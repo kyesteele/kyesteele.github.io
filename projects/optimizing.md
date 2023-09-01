@@ -10,7 +10,7 @@ labels:
 summary: "A research project on improving current techniques and protocols for malware analysis to achieve better consistency and efficiency."
 ---
 
-<div class="text-center p-4">
+<div class="p-4">
   <img width="1000px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/malwareposter.jpg?raw=true" >
 </div>
 
