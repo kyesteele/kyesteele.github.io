@@ -14,7 +14,7 @@ summary: "As a cloud security intern, I worked on redesigning a local company's 
 
 <div class="text-center p-4">
   <img width="200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/Microsoft_Azure.svg.png?raw=true" class="img-thumbnail">
-  <img width="200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/cloudsecurity.png?raw=true" class="img-thumbnail" >
+  <img width="185.75px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/cloudsecurity.png?raw=true" class="img-thumbnail" >
   <img width="200px"  src="https://github.com/kyesteele/kyesteele.github.io/blob/main/rbac-overview.png?raw=true" class="img-thumbnail" >
 </div>
 
