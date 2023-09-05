@@ -8,7 +8,7 @@ published: true
 labels:
   - Eagle Scout Project
   - COVID-19 Pandemic
-summary: "As a cloud security intern, I worked on redesigning a local company's Azure role-based access controls system."
+summary: "An Eagle Scout Project making 195 sneeze guards for elementary students returning to school."
 ---
 
 <div class="text-center p-4">
