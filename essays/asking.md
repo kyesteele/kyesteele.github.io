@@ -10,7 +10,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="(https://live.staticflickr.com/80/218703776_5d175b4211_w.jpg)">
+<img width="275px" class="rounded float-start pe-4" src="(https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/main/questions.jpg)">
 
 ## Why Are Smart Questions Important?
 
