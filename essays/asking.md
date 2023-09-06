@@ -10,7 +10,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="[https://github.com/kyesteele/kyesteele.github.io/blob/main/horizon.jpg?raw=true](https://live.staticflickr.com/80/218703776_5d175b4211_w.jpg)">
+<img width="275px" class="rounded float-start pe-4" src="(https://live.staticflickr.com/80/218703776_5d175b4211_w.jpg)">
 
 ## Why Are Smart Questions Important?
 
@@ -26,6 +26,6 @@ On the contrary, the results for the smart question were much better. This quest
 
 There are a surprising amount of poorly asked questions on Stack Overflow. I’ve learned that smart questions generally get you more responses that are thorough and answer your question better. In addition, the overall tone of the responses tend to be more discouraging when you ask a question poorly. It’s best if I ask smart questions with enough detail and context in order to make the best of mine, and everyone else’s time. To top it off, I learned a lot about how I can ask smart questions in the future, which will be crucial in my career.
 
-The bad question: [Switch Case]([https://www.facebook.com/MidWeekHawaii/posts/kye-steele-an-alumnus-of-kapunahala-elementary-has-given-back-to-his-alma-mater-/10159188930484809/](https://stackoverflow.com/questions/48136509/why-my-code-doesnt-work-in-switch-case)){:target="_blank"}
+The bad question: [Switch Case](https://stackoverflow.com/questions/48136509/why-my-code-doesnt-work-in-switch-case){:target="_blank"}
 
-The good question: [Array Processing]([https://www.facebook.com/MidWeekHawaii/posts/kye-steele-an-alumnus-of-kapunahala-elementary-has-given-back-to-his-alma-mater-/10159188930484809/](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902)https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902){:target="_blank"}
+The good question: [Array Processing](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902){:target="_blank"}
