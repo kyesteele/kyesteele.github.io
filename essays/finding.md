@@ -14,8 +14,6 @@ labels:
 
 <img width="275px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/d8a993b341eb50c407aec45327a7877bc8d6cce8/softwareengineering.jpeg">
 
-## Front-End Fiesta!
-
   Although I have many, one of my interests within software engineering is front-end web development. I like the idea of designing a user interface and bringing it to life. It’s a good mix of creativity and logic that I enjoy. My goal is to keep learning more and more and eventually be able to complete projects for actual clients. I am considering doing freelance work in the future, so it’s also important to work on my soft skills and people skills as well. In addition to front-end development, I plan on getting my feet wet in back-end development. If I end up enjoying this too, I could even look at being a full-stack developer! Web development in general seems like a great place for me to grow in the software engineering industry.
 
 ## Your Average E-Commerce Enthusiast
