@@ -12,8 +12,6 @@ labels:
 
 <img width="275px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/main/questions.jpg">
 
-## Why Are Smart Questions Important?
-
 Everyone needs to ask a question at some point in their life. However, it is undeniably true that how you ask the question affects the results you get in return. For instance, a question without enough necessary context will ultimately confuse anyone reading it, or will lead to conflicting responses. Asking a smart question, on the other hand, will likely get you a more specific and tailored response. By asking bad questions, you waste everyone’s time, including your own. Smart questions enable software developers to get their problems resolved quickly and as a result complete more work.
 
 ## The Good and the Bad
