@@ -12,8 +12,6 @@ labels:
 
 <img width="275px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/horizon.jpg?raw=true">
 
-## JavaScript is a Breath of Fresh Air
-
   Picking up JavaScript again felt like a much needed break from my addiction to writing web scraping scripts in Python. I’ve had some prior experience with JavaScript, but never got very deep into really understanding the language. Even so, I found the language to be quite intuitive and somewhat innovative as well. I’ll admit, I’m somewhat of a sucker for weakly typed programming languages. I think how JavaScript treats functions differently than other languages is also very interesting. I haven’t had much use for this knowledge yet, but I’m sure I will eventually be using that to my advantage. From my experience so far, I think JavaScript is a great language for software engineering, but obviously might not be the best choice depending on one’s needs or preferences.
 
 ## Athletic Software Engineering is the Most Athletic Thing I've Done
