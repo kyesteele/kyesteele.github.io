@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lintroller.jpg">
+<img width="275px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/main/lintroller.jpg">
 
 Coding standards, although tedious, seem to be very valuable in the grand scheme of programming. In some cases, coding standards have even helped solidify my understanding of JavaScript. For instance, when coding in IntellliJ, ESLint told me to use “===” instead of “==” in one of my functions. Although it did not really matter for the purpose of that code, the strict equality operator “===” would have been more appropriate.
 
