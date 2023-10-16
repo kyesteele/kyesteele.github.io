@@ -84,7 +84,7 @@
 			"highlights": [
 				"Redesign the company's current role-based access controls system such that it adheres to the principle of least privilege",
 				"Provide a quality of work-life improvement for every employee within DRC, and improve the company's overall security with this RBAC redesign",
-				"Interview a multitude of employees to gain an understanding of everyone's role in the company, and how they take care of their respective responsibilites",
+				"Interview a multitude of employees to gain an understanding of everyone's role in the company, and how they take care of their respective responsibilities",
 				"Configure diagnostics settings within the Azure platform such that all cloud-based company resource activity is being logged",
 				"Conduct research on SOC II vendors to find a solution best suited to aid DRC in reaching SOC II compliance"
 			]
