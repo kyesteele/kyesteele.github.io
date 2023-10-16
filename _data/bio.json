@@ -44,7 +44,7 @@
 	],
 	"skills": [{
 			"name": "Languages and Frameworks",
-			"keywords": ["C", "C++", "Java", "Javascript", "HTML", "CSS", "Python", "Swift", "Selenium"]
+			"keywords": ["C", "C++", "Java", "JavaScript", "HTML", "CSS", "Python", "Swift", "Selenium"]
 		},
 		{
 			"name": "Toolsets/OS",
@@ -90,7 +90,7 @@
 			]
 		},
 		{
-			"company": "National Information Warfare Center Pacific",
+			"company": "Naval Information Warfare Center Pacific",
 			"position": "Cyber Security Intern",
 			"website": "",
 			"startDate": "2023",
