@@ -11,7 +11,7 @@ labels:
   - Education
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:700/1*RzAjvyvst11QRvNtjdfbMw.jpeg">
+<img width="500px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:700/1*RzAjvyvst11QRvNtjdfbMw.jpeg">
 
 I personally feel that the use of AI in education can either be detrimental or extremely beneficial, depending on the usage. In terms of its use for software engineering, it can be a useful tool for generating ideas, small code snippets, altering dataset formats, and more. In my software engineering endeavors, I have used ChatGPT for all of these tasks. For instance, I copied a dataset formerly using a space as a delimiter, and asked ChatGPT to use a comma as the delimiter instead. It returned exactly what I had needed. However, I would like to solidify my perspective that AI is merely a tool. Software engineering requires much more than what generative AI can do, such as problem solving skills.
 
