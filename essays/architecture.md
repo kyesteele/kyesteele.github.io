@@ -11,7 +11,7 @@ labels:
   - Architecture & Construction
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/main/architecture.jpg">
+<img width="400px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/main/architecture.jpg">
 
 When constructing and designing new buildings, architects use blueprints as a guide and way to map everything out. In software engineering, design patterns act like virtual blueprints. They are structured approaches to solving common problems and challenges in software design. This allows developers to follow tried and true methods when creating robust and scalable systems. Although blueprints and design patterns are not the same, both provide a foundation and strong starting point as well as an efficient approach to each problem.
 
