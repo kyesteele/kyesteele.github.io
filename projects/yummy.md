@@ -37,7 +37,7 @@ After learning a variety of technologies and skills in this course, I loved bein
 Here is a link to our project home page for more information: [Yummy Foo](https://eat-sleep-fortnite-repeat.github.io/eat-sleep-foo-repeat.github.io/){:target="_blank"}
 
 <div class="text-center p-4">
-  <img width="400px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/search.jpg?raw=true">
-  <img width="400px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/favenglish.jpg?raw=true" >
-  <img width="400px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/favkorean.jpg?raw=true" >
+  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/search.jpg?raw=true">
+  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/favenglish.jpg?raw=true" >
+  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/favkorean.jpg?raw=true" >
 </div>
