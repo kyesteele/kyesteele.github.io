@@ -14,6 +14,8 @@ summary: "An information hub where UHM students can find and share recipes."
   <img width="400px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/yummyfoologo.png?raw=true">
 </div>
 
+## The Vision
+
 For our final project in ICS 314 (Software Engineering I), my group and I were tasked with creating an information hub where UH Manoa students can find and share budget-friendly recipes. Due to factors such as lack of time or money, college students may oftentimes find themselves making unhealthy or suboptimal eating decisions such as purchasing take out. The goal of this project, Yummy Foo, was to provide a platform for students to expand their culinary knowledge and enable them to make healthier meals. Users can browse the current selection of recipes, add new ones, and save their favorites! We hope that this project will benefit all students of UH Manoa and encourage them to eat healthier, even on a budget.
 
 ## Major Contributions
