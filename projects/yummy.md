@@ -10,7 +10,7 @@ labels:
 summary: "An information hub where UHM students can find and share recipes."
 ---
 
-<div class="text-center p-4">
+<div class="text-left p-1">
   <img width="400px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/yummyfoologo.png?raw=true">
 </div>
 
