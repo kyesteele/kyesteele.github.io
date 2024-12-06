@@ -27,24 +27,18 @@
 		]
 	},
 	"interests": [{
-			"name": "Web Scraping"
+			"name": "iOS Development"
 		},
 		{
 			"name": "Cybersecurity"
 		},
 		{
-			"name": "Software Development"
-		},
-		{
-			"name": "Musical Theatre"
-		},
-		{
-			"name": "Martial Arts"
+			"name": "Web Development"
 		}
 	],
 	"skills": [{
 			"name": "Languages and Frameworks",
-			"keywords": ["C", "C++", "Java", "JavaScript", "HTML", "CSS", "Python", "Swift", "Selenium"]
+			"keywords": ["Swift", "SwiftUI", "C", "C++", "Java", "JavaScript", "HTML", "CSS", "Python", "Selenium"]
 		},
 		{
 			"name": "Toolsets/OS",
@@ -71,10 +65,51 @@
 			"Junior Project (ICS 396)",
 			"Accelerated Calculus I (MATH 251A)",
 			"Calculus II (MATH 242)",
-			"Linear Algebra and Differential Equations (MATH 307)"
+			"Linear Algebra and Differential Equations (MATH 307)",
+			"Software Engineering (ICS 314)",
+			"Database Systems (ICS 321)",
+			"Programming Language Theory (ICS 313)",
+			"Operating Systems (ICS 332)",
+			"Cryptocurrencies and Blockchain (ICS 491-1)",
+			"Machine Level and Systems Programming (ICS 312)",
+			"Computer Visuals (ICS 491-2)"
 		]
 	}],
 	"work": [{
+			"company": "Naval Information Warfare Center",
+			"position": "NREIP Intern",
+			"website": "",
+			"startDate": "2024",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Develop augmented reality programs using C# and the Meta Quest",
+				"Set up and configure a testbed server for a lab within the facility"
+			]
+		},
+		{
+			"company": "University of Hawaii at Manoa",
+			"position": "Computer Graphics Software Developer",
+			"website": "",
+			"startDate": "2024",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Assist UH Manoa computer graphics professor in Common Lisp assignments and documentation"
+			]
+		},
+		{
+			"company": "Keiki Coders",
+			"position": "Afterschool Technology Teacher",
+			"website": "",
+			"startDate": "2024",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Teach a VR coding class at a local elementary school once a week"
+			]
+		},
+		{
 			"company": "Decision Research Corporation",
 			"position": "Cloud Security Intern",
 			"website": "",
@@ -84,9 +119,7 @@
 			"highlights": [
 				"Redesign the company's current role-based access controls system such that it adheres to the principle of least privilege",
 				"Provide a quality of work-life improvement for every employee within DRC, and improve the company's overall security with this RBAC redesign",
-				"Interview a multitude of employees to gain an understanding of everyone's role in the company, and how they take care of their respective responsibilities",
-				"Configure diagnostics settings within the Azure platform such that all cloud-based company resource activity is being logged",
-				"Conduct research on SOC II vendors to find a solution best suited to aid DRC in reaching SOC II compliance"
+				"Interview a multitude of employees to gain an understanding of everyone's role in the company, and how they take care of their respective responsibilities"
 			]
 		},
 		{
