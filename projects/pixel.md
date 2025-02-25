@@ -10,7 +10,7 @@ labels:
 summary: "An iOS photo editing application for Apple's 2025 Swift Student Challenge."
 ---
 
-## The Challenge
+## Apple's Swift Student Challenge
 
 The Swift Student Challenge is an annual three-week competition hosted by Apple, inviting students from across the world to showcase their iOS development skills. Winners receive exclusive Apple rewards and the opportunity to connect with the global developer community.
 
