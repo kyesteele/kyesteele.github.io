@@ -11,7 +11,7 @@ summary: "An iOS photo editing application for Apple's 2025 Swift Student Challe
 ---
 
 <div class="text-left p-1">
-  <img width="400px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixelperfect.jpg?raw=true">
+  <img width="400px" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/refs/heads/main/pixelperfect.jpg">
 </div>
 
 ## The Challenge
