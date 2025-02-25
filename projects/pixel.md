@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: pixelperfect.png
+image: pixelperfect.jpg
 date: 2025
 published: true
 labels:
