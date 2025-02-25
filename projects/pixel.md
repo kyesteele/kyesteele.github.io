@@ -10,10 +10,6 @@ labels:
 summary: "An iOS photo editing application for Apple's 2025 Swift Student Challenge."
 ---
 
-<div class="text-left p-1">
-  <img width="400px" src="https://raw.githubusercontent.com/kyesteele/kyesteele.github.io/refs/heads/main/pixelperfect.jpg" border-radius="12px">
-</div>
-
 ## The Challenge
 
 The Swift Student Challenge is an annual three-week competition hosted by Apple, inviting students from across the world to showcase their iOS development skills. Winners receive exclusive Apple rewards and the opportunity to connect with the global developer community.
