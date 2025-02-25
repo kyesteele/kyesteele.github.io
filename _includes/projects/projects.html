@@ -18,7 +18,7 @@
       {% endfor %}
     </div>
 
-    {% if project_pages.size > include.limit %}
+    {% if project_pages.size > 10 %}
       <p class="text-center pt-4"><a href="{{ site.baseurl}}/projects/">See all {{ project_pages.size }} projects</a></p>
     {% endif %}
 
