@@ -30,7 +30,7 @@ For my submission, I wanted to create a simple and intuitive photo editing appli
 In the week and a half I spent working on this application, I learned many things about the development process. My biggest takeaway is how much more difficult it is when you are working solo throughout the entire process. From coming up with the app idea/solution, to designing the user interface, and then implementing all of the desired features/requirements, there is a wide range of skills required. This posed a challenge when it was no longer only about implementing features as a programmer, but doing all of the prior creative work as well as worrying about things like user testing afterwards. That said, I really enjoyed being part of the entire process, start to finish. This challenge was a great learning experience while improving my iOS development knowledge
 
 <div class="text-center p-4">
-  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixel1.jpg?raw=true">
-  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixel2.jpg?raw=true" >
-  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixel3.jpg?raw=true" >
+  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixel1.jpg?raw=true">
+  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixel2.jpg?raw=true" >
+  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/pixel3.jpg?raw=true" >
 </div>
