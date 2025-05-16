@@ -6,7 +6,7 @@
 		"email": "kss25@hawaii.edu",
 		"phone": "808-387-6536",
 		"website": "https://kyesteele.github.io",
-		"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am pursuing software development and cybersecurity as career paths.",
+		"summary": "I am studying for a B.S. in computer science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. Afterwards, I wish to pursue a M.S. in computer science, followed by a career as a software engineer or related field.",
 		"location": {
 			"address": "",
 			"postalCode": "96744",
@@ -30,6 +30,9 @@
 			"name": "iOS Development"
 		},
 		{
+			"name": "VR/AR Development"
+		},
+		{
 			"name": "Cybersecurity"
 		},
 		{
@@ -38,7 +41,7 @@
 	],
 	"skills": [{
 			"name": "Languages and Frameworks",
-			"keywords": ["Swift", "SwiftUI", "C", "C++", "Java", "JavaScript", "HTML", "CSS", "Python", "Selenium"]
+			"keywords": ["Swift", "SwiftUI", "C", "C++", "C#", "OpenXR", "Java", "JavaScript", "HTML", "CSS", "Python", "Selenium", "Common Lisp", "OpenGL"]
 		},
 		{
 			"name": "Toolsets/OS",
@@ -52,30 +55,36 @@
 		"startDate": "2021-08-23",
 		"endDate": "Present",
 		"courses": [
-			"Introduction to Computer Science Principles (ICS 103)",
-			"Introduction to Computer Science I (ICS 111)",
-			"Introduction to Computer Science II (ICS 211)",
-			"Discrete Math for Computer Science I (ICS 141)",
-			"Discrete Math for Computer Science II (ICS 241)",
-			"Programming Structure (ICS 212)",
 			"Algorithms (ICS 311)",
 			"Software Engineering (ICS 314)",
 			"Database Systems (ICS 321)",
 			"Sophomore Project (ICS 296)",
 			"Junior Project (ICS 396)",
-			"Accelerated Calculus I (MATH 251A)",
 			"Calculus II (MATH 242)",
 			"Linear Algebra and Differential Equations (MATH 307)",
-			"Software Engineering (ICS 314)",
-			"Database Systems (ICS 321)",
 			"Programming Language Theory (ICS 313)",
 			"Operating Systems (ICS 332)",
 			"Cryptocurrencies and Blockchain (ICS 491-1)",
 			"Machine Level and Systems Programming (ICS 312)",
-			"Computer Visuals (ICS 491-2)"
+			"Computer Visuals (ICS 491-2)",
+			"Software Engineering II (ICS 414)",
+			"Computer Security and Ethics (ICS 425)",
+			"Capstone Project (ICS 496)"
 		]
 	}],
 	"work": [{
+			"company": "UH Manoa Water Resources Research Center",
+			"position": "Web Specialist",
+			"website": "",
+			"startDate": "2025",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Redesign existing website to fit a more modern aesthetic and act as a community resource.",
+				"Assist with general IT related issues."
+			]
+		},
+		{
 			"company": "Naval Information Warfare Center",
 			"position": "NREIP Intern",
 			"website": "",
@@ -95,7 +104,8 @@
 			"endDate": "Present",
 			"summary": "",
 			"highlights": [
-				"Assist UH Manoa computer graphics professor in Common Lisp assignments and documentation"
+				"Port kons-9 3D animation package to the Meta Quest 2.",
+				"Create Common Lisp setup guides and documentation for computer graphics courses."
 			]
 		},
 		{
@@ -103,7 +113,7 @@
 			"position": "Afterschool Technology Teacher",
 			"website": "",
 			"startDate": "2024",
-			"endDate": "Present",
+			"endDate": "2024",
 			"summary": "",
 			"highlights": [
 				"Teach a VR coding class at a local elementary school once a week"
