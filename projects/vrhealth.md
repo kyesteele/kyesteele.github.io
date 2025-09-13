@@ -17,6 +17,6 @@ As a senior capstone project at the University of Hawaii at Manoa, my team and I
 The device used for testing and demo-ing our project was the Meta Quest 3. The application itself was developed within Unity with C# as the programming language. In a park scene, followed by an apartment scene, users must find/memorize the locations of three objects, then recall where they found them by pointing to a location and confirming. The amount of time taken, and how many tries it took to get it correct are recorded as metrics. The idea of the project is to combine this application with an EEG device to monitor brain activity of patients.
 
 
-<div class="text-center p-4">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/vrhealth.jpg?raw=true">
+<div class="text-center p-4" style="overflow: hidden; object-fit: cover;">
+  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/vrhealth.jpg?raw=true">
 </div>

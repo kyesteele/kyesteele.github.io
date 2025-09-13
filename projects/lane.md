@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: lane-logo.png
+image: lane-logo.jpg
 date: 2025
 published: true
 labels:
@@ -20,8 +20,8 @@ To start off, this program does not use any kind of machine learning. First, I c
 Perhaps the biggest challenge of this project is optimizing it. As of now, it takes a few seconds to complete the entire frame. This is too long of a computation time. I would need to figure out a workaround, or a different approach to speed it up.
 
 <div class="text-center p-4">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane1.jpg?raw=true">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane2.png?raw=true">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane3.png?raw=true">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane4.png?raw=true">
+  <img width="800px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane1.jpg?raw=true">
+  <img width="800px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane2.png?raw=true">
+  <img width="800px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane3.png?raw=true">
+  <img width="800px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/lane4.png?raw=true">
 </div>

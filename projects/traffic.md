@@ -20,5 +20,5 @@ As previously stated, there is an existing website with logs on the last 24 hour
 Although I have not published this site yet, I do hope to do so in the future. Before doing so, I would like to do some polishing on the frontend, and add more helpful information on the dashboard.
 
 <div class="text-center p-4">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/traffic.jpg?raw=true">
+  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/traffic.jpg?raw=true">
 </div>

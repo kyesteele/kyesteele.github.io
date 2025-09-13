@@ -21,7 +21,7 @@ The biggest limitation for this project, and the reason it will not be published
 
 
 <div class="text-center p-4">
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/manga1.jpg?raw=true" >
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/manga2.jpg?raw=true" >
-  <img width="300px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/manga3.jpg?raw=true" >
+  <img width="600px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/manga1.jpg?raw=true" >
+  <img width="600px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/manga2.jpg?raw=true" >
+  <img width="600px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/manga3.jpg?raw=true" >
 </div>
