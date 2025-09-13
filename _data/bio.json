@@ -6,7 +6,7 @@
 		"email": "kss25@hawaii.edu",
 		"phone": "808-387-6536",
 		"website": "https://kyesteele.github.io",
-		"summary": "I am studying for a B.S. in computer science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. Afterwards, I wish to pursue a M.S. in computer science, followed by a career as a software engineer or related field.",
+		"summary": "I am a SMART scholar working on my M.S. in computer science at UH Manoa.",
 		"location": {
 			"address": "",
 			"postalCode": "96744",
@@ -77,7 +77,7 @@
 			"position": "Web Specialist",
 			"website": "",
 			"startDate": "2025",
-			"endDate": "Present",
+			"endDate": "",
 			"summary": "",
 			"highlights": [
 				"Redesign existing website to fit a more modern aesthetic and act as a community resource.",
@@ -89,7 +89,7 @@
 			"position": "NREIP Intern",
 			"website": "",
 			"startDate": "2024",
-			"endDate": "Present",
+			"endDate": "2025",
 			"summary": "",
 			"highlights": [
 				"Develop augmented reality programs using C# and the Meta Quest",
@@ -101,7 +101,7 @@
 			"position": "Computer Graphics Software Developer",
 			"website": "",
 			"startDate": "2024",
-			"endDate": "Present",
+			"endDate": "",
 			"summary": "",
 			"highlights": [
 				"Port kons-9 3D animation package to the Meta Quest 2.",
